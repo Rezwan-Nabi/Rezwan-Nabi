@@ -40,12 +40,12 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🔭 I'm currently working on **[project name]**
-- 🌱 I'm currently learning **[technology / skill]**
-- 👯 I'm looking to collaborate on **[type of project]**
-- 🤔 I'm looking for help with **[topic]**
-- 💬 Ask me about **[your expertise]**
-- ⚡ Fun fact: **[something fun about you]**
+* 🔭 I'm currently working on **BEE Smart Web App**
+* 🌱 I'm currently learning **JavaScript, TypeScript, and Next.js**
+* 👯 I'm looking to collaborate on **Web Development and Open Source Projects**
+* 🤔 I'm looking for help with **Advanced React, Next.js, and Web Development**
+* 💬 Ask me about **HTML, CSS, JavaScript, React, and Front-End Development**
+* ⚡ Fun fact: **I enjoy turning ideas into interactive and user-friendly web experiences.**
 
 </td>
 <td width="40%" align="center">
