@@ -123,14 +123,19 @@
 
 <td width="50%" valign="top">
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ## 🤝 Collaboration
 
 I'm open to collaborating on:
 
-- Web & mobile applications
-- Open-source projects
-- Learning-focused side projects
-- [Add your own interests here]
+* 💻 Web & Mobile Applications
+* 🌐 Open-source Projects
+* 📚 Learning-focused Side Projects
+* 🚀 Front-End Development Projects
 
 </td>
 
@@ -138,24 +143,27 @@ I'm open to collaborating on:
 
 ## 📫 Contact
 
+<a href="https://www.facebook.com/share/186ahBjV9p/">
+  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile">
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/md-rezwan-nabi-857269296">
+  <img src="https://img.shields.io/badge/LinkedIn-Md%20Rezwan%20Nabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+</a>
+
+<br><br>
+
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-your--email%40example.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
-</a>
-<br><br>
-
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-your--linkedin-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
-</a>
-<br><br>
-
-<a href="https://twitter.com/your-twitter">
-  <img src="https://img.shields.io/badge/Twitter-@your--twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter profile link">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact">
 </a>
 
 </td>
 
 </tr>
 </table>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="divider" />
