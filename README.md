@@ -117,27 +117,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="divider" />
 </p>
-<!-- GITHUB ACTIVITY -->
-### 📈 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Rezwan-Nabi&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff"
-    alt="Rezwan Nabi GitHub Activity Graph"
-  />
-</p>
-
-<!-- GITHUB TROPHIES -->
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Rezwan-Nabi&theme=radical&no-frame=true&no-bg=true&row=1&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<!-- CONTRIBUTION SNAKE -->
 ### 🐍 Contribution Snake
 
 <p align="center">
