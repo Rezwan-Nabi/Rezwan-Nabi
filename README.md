@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:md213nabi@gmail.com">
     <img src="https://img.shields.io/badge/Open%20to-Collaboration-f59e0b?style=flat-square" alt="Open to collaboration" />
   </a>
   <a href="https://github.com/Rezwan-Nabi?tab=repositories">
@@ -93,12 +93,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rezwan-Nabi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan-Nabi&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rezwan-Nabi&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan-Nabi&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezwan-Nabi&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Rezwan-Nabi&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -121,10 +121,12 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rezwan-Nabi/Rezwan-Nabi/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rezwan-Nabi/Rezwan-Nabi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rezwan-Nabi/Rezwan-Nabi/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Rezwan-Nabi/Rezwan-Nabi/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-
-> 💡 The snake animates your real contribution graph, but it needs a one-time GitHub Actions setup. See the note at the bottom of this file for the quick setup steps.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="divider" />
@@ -163,8 +165,8 @@ I'm open to collaborating on:
 
 <br><br>
 
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact">
+<a href="mailto:md213nabi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-md213nabi@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact">
 </a>
 
 </td>
@@ -186,45 +188,3 @@ Star ⭐ the repos if they helped you!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
-
-<!--
-📌 SETUP NOTES (delete this comment once you're done):
-
-1. Replace "your-email@example.com" with your real email in the badges above.
-
-2. Activity graph & trophies: both now point at username=Rezwan-Nabi and will
-   render automatically once this file is the README.md of a repo named
-   exactly "Rezwan-Nabi" (must match your GitHub username, case-sensitive).
-   If they still don't load, GitHub's stats servers are sometimes slow/rate
-   limited — refresh after a minute, or self-host github-readme-stats:
-   https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-
-3. Contribution snake: to make the animated snake work, add this GitHub
-   Actions workflow at .github/workflows/snake.yml in this repo:
-
-   name: generate snake
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch: {}
-     push:
-       branches: [ main ]
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: Rezwan-Nabi
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   After it runs once, the snake image above will populate automatically.
--->
