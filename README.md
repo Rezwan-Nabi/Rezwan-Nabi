@@ -34,29 +34,7 @@
 </p>
 
 <!-- ABOUT -->
-### 👋 About Me
 
-<table border="0">
-<tr>
-<td width="60%" valign="top">
-
-* 🔭 I'm currently working on **BEE Smart Web App**
-* 🌱 I'm currently learning **JavaScript, TypeScript, and Next.js**
-* 👯 I'm looking to collaborate on **Web Development and Open Source Projects**
-* 🤔 I'm looking for help with **Advanced React, Next.js, and Web Development**
-* 💬 Ask me about **HTML, CSS, JavaScript, React, and Front-End Development**
-* ⚡ Fun fact: **I enjoy turning ideas into interactive and user-friendly web experiences**
-
-</td>
-<td width="40%" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=350&lines=Front-End+Developer;Building+with+React+%26+Next.js;Learning+every+day;Open+source+enthusiast" alt="Typing SVG" />
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="divider" />
-</p>
 
 <!-- TECH STACK -->
 ### 🛠 Technologies
