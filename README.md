@@ -106,20 +106,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rezwan-Nabi&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan-Nabi&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Rezwan-Nabi&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rezwan-Nabi&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=6&v=3" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rezwan-Nabi&theme=react-dark&hide_border=true&bg_color=00000000" alt="Activity Graph" />
 </p>
 
 ### 🐍 Contribution Snake
