@@ -1,48 +1,46 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColor1=E23636&gradientColor2=0A4C95&height=250&section=header&text=Your%20Friendly%20Neighborhood%20Developer&fontSize=65&animation=twinkling&fontAlignY=40&fontColor=FFFFFF" alt="Spider-Man Profile Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rezwan&fontSize=70&animation=twinkling&fontAlignY=40" alt="Profile Header" />
 </p>
 
-<h2 align="center">
-  Hi there, I'm <a href="https://www.linkedin.com/in/md-rezwan-nabi-857269296" target="_blank" style="color: #E23636;">Rezwan Nabi</a> 🕷️
-</h2>
+<h2 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/md-rezwan-nabi-857269296" target="_blank">Md Rezwan Nabi</a> 👋</h2>
 
 <p align="center">
-  <em>"With great code, comes great responsibility." 🕸️</em>
+  <em>Front-End focused Software Developer crafting clean, interactive, and user-friendly web experiences.</em>
 </p>
 
 <p align="center">
   <a href="mailto:md213nabi@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-md213nabi@gmail.com-E23636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/📧_Email-md213nabi@gmail.com-f59e0b?style=for-the-badge" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/md-rezwan-nabi-857269296" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Md%20Rezwan%20Nabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Rezwan-Nabi" target="_blank">
-    <img src="https://img.shields.io/badge/🕸️_GitHub-Rezwan--Nabi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/👨‍💻_GitHub-Rezwan--Nabi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E23636&height=2&width=800" alt="Red Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="Divider" />
 </p>
 
-### 🕷️ About Me
+### 🚀 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=E23636&center=true&vCenter=true&width=500&lines=Swinging+through+Front-End+Development;Building+with+React+%26+Next.js;Spidey-sense+tingling+for+bugs;Turning+ideas+into+web+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+with+React+%26+Next.js;Learning+every+single+day;Open+source+enthusiast;Turning+ideas+into+reality" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently building scalable web experiences for the **BEE Smart Web App**
-- 🌱 I’m leveling up my powers in **TypeScript, Next.js, and Advanced React Patterns**
-- 👯 I’m ready to team up on **Open Source and Front-End collaborations**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, and UI/UX best practices**
-- ⚡ Fun fact: **My Spidey-sense is basically just an uncanny ability to spot missing semicolons.** 🕸️
+- 🔭 I’m currently building scalable web applications, focusing on the **BEE Smart Web App**
+- 🌱 I’m deepening my expertise in **TypeScript, Next.js, and modern React ecosystems**
+- 👯 I’m open to collaborating on innovative **Front-End and Open-Source projects**
+- 💬 Feel free to reach out to discuss **React, UI/UX best practices, or web performance**
+- ⚡ Fun fact: **I believe the best code is clean, readable, and solves real user problems.**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A4C95&height=2&width=800" alt="Blue Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="Divider" />
 </p>
 
-### 🛠️ Web-Slinger's Tech Stack
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <table align="center" cellspacing="0" cellpadding="8">
@@ -102,33 +100,16 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E23636&height=2&width=800" alt="Red Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="Divider" />
 </p>
 
-### 📊 Spider-Verse Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rezwan-Nabi&show_icons=true&theme=redical&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan-Nabi&layout=compact&theme=redical&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Rezwan-Nabi&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rezwan-Nabi&theme=redical&hide_border=true&background=00000000" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rezwan-Nabi&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=6&v=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rezwan-Nabi&theme=react-dark&hide_border=true&bg_color=00000000" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A4C95&height=2&width=800" alt="Blue Divider" />
-</p>
-
-### 🕸️ Contribution Web (Snake)
+### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -139,18 +120,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E23636&height=2&width=800" alt="Red Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="Divider" />
 </p>
 
-### 🤝 Let's Team Up
-
-<p align="center">
-  <samp>
-    I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. 
-    <br>
-    <b>Feel free to reach out and let's build something amazing together!</b> 🕷️
-  </samp>
-</p>
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.facebook.com/share/186ahBjV9p/" target="_blank">
@@ -160,10 +133,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:md213nabi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-E23636?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColor1=0A4C95&gradientColor2=E23636&height=100&section=footer&width=100&text=Thanks%20for%20visiting!&fontSize=25&animation=twinkling&fontAlignY=40&fontColor=FFFFFF" alt="Profile Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
