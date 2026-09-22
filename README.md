@@ -30,11 +30,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+with+React+%26+Next.js;Learning+every+single+day;Open+source+enthusiast;Turning+ideas+into+reality" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on **BEE Smart Web App**
-- 🌱 I’m currently learning **TypeScript, Next.js, and Advanced React Patterns**
-- 👯 I’m looking to collaborate on **Open Source and Front-End Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, and UI/UX**
-- ⚡ Fun fact: **I enjoy debugging almost as much as I enjoy building!**
+- 🔭 I’m currently building scalable web applications, focusing on the **BEE Smart Web App**
+- 🌱 I’m deepening my expertise in **TypeScript, Next.js, and modern React ecosystems**
+- 👯 I’m open to collaborating on innovative **Front-End and Open-Source projects**
+- 💬 Feel free to reach out to discuss **React, UI/UX best practices, or web performance**
+- ⚡ Fun fact: **I believe the best code is clean, readable, and solves real user problems.**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="Divider" />
@@ -126,14 +126,6 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <samp>
-    I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. 
-    <br>
-    <b>Feel free to reach out!</b>
-  </samp>
-</p>
-
-<p align="center">
   <a href="https://www.facebook.com/share/186ahBjV9p/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
@@ -145,6 +137,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100&text=Thanks%20for%20visiting!&fontSize=25&animation=twinkling&fontAlignY=40" alt="Profile Footer" />
-</p>
