@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake and Trophy
 
 on:
   # Schedule to run automatically every day at midnight UTC
@@ -10,10 +10,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push files to the output branch
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 1. Generate the Snake animation
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
@@ -23,6 +27,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # 2. Generate the Trophy card (using a reliable self-hosted action)
+      - name: Generate trophy card in './dist/'
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: 'username=Rezwan-Nabi&theme=radical&no-frame=true&no-bg=false&margin-w=8&column=7'
+          path: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Push all generated files to the 'output' branch
       - name: Push generated files to the 'output' branch
         uses: peaceiris/actions-gh-pages@v4
         with:
