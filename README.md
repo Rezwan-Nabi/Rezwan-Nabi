@@ -1,141 +1,159 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rezwan&fontSize=70&animation=twinkling&fontAlignY=40" alt="Profile Header" />
-</p>
+<div align="center">
 
-<h2 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/md-rezwan-nabi-857269296" target="_blank">Md Rezwan Nabi</a> 👋</h2>
+<!-- 🕸️ Animated Web Background -->
 
-<p align="center">
-  <em>Front-End focused Software Developer crafting clean, interactive, and user-friendly web experiences.</em>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:050505&height=220&section=header&text=🕷️%20REZWAN%20NABI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-  <a href="mailto:md213nabi@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-md213nabi@gmail.com-f59e0b?style=for-the-badge" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-rezwan-nabi-857269296" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Md%20Rezwan%20Nabi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Rezwan-Nabi" target="_blank">
-    <img src="https://img.shields.io/badge/👨‍💻_GitHub-Rezwan--Nabi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=E62429&center=true&vCenter=true&width=700&lines=WITH+GREAT+CODE+COMES+GREAT+RESPONSIBILITY.;Frontend+Developer;JavaScript+%7C+TypeScript+%7C+Next.js;Building+the+Web+One+Commit+at+a+Time+%F0%9F%95%B8%EF%B8%8F" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="Divider" />
-</p>
+<br>
 
-### 🚀 About Me
+`🕸️ BUILD`   `⚡ LEARN`   `🧑‍💻 DEBUG`   `🚀 DEPLOY`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+with+React+%26+Next.js;Learning+every+single+day;Open+source+enthusiast;Turning+ideas+into+reality" alt="Typing SVG" />
-</p>
+</div>
 
-- 🔭 I’m currently building scalable web applications, focusing on the **BEE Smart Web App**
-- 🌱 I’m deepening my expertise in **TypeScript, Next.js, and modern React ecosystems**
-- 👯 I’m open to collaborating on innovative **Front-End and Open-Source projects**
-- 💬 Feel free to reach out to discuss **React, UI/UX best practices, or web performance**
-- ⚡ Fun fact: **I believe the best code is clean, readable, and solves real user problems.**
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="Divider" />
-</p>
+<div align="center">
 
-### 🛠️ Technologies & Tools
+### 🕸️ WEB CONNECTION ESTABLISHED
 
-<p align="center">
-  <table align="center" cellspacing="0" cellpadding="8">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="48" height="48" alt="Next.js" />
-        <br>Next.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="Tailwind" />
-        <br>Tailwind
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-        <br>Figma
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-      </td>
-    </tr>
-  </table>
-</p>
+```text
+                         🕸️
+                    ╱─────┼─────╲
+                  ╱       │       ╲
+                ╱         │         ╲
+              ╱      🕷️   │          ╲
+             ─────────────┼─────────────
+              ╲           │           ╱
+                ╲         │         ╱
+                  ╲       │       ╱
+                    ╲─────┼─────╱
+                         │
+                    DEVELOPER
+```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="Divider" />
-</p>
+</div>
 
-### 📊 GitHub Analytics
+## 🕷️ About Me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rezwan-Nabi&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
+```javascript
+const developer = {
+    name: "Md. Rezwan Nabi",
+    role: "Frontend Developer",
 
-### 🐍 Contribution Snake
+    currentlyWorkingOn: "BEE Smart Web App",
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rezwan-Nabi/Rezwan-Nabi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rezwan-Nabi/Rezwan-Nabi/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Rezwan-Nabi/Rezwan-Nabi/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+    learning: [
+        "JavaScript",
+        "TypeScript",
+        "Next.js"
+    ],
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="Divider" />
-</p>
+    superPower: "Turning ideas into interfaces 🕸️",
 
-### 🤝 Let's Connect
+    motto: "Learn. Build. Improve."
+};
+```
 
-<p align="center">
-  <a href="https://www.facebook.com/share/186ahBjV9p/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-rezwan-nabi-857269296" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:md213nabi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
-</p>
+---
+
+## 🕸️ My Tech Web
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode" />
+
+</div>
+
+---
+
+## 🏙️ Currently Building
+
+<div align="center">
+
+### 🐝 BEE Smart Web App
+
+**IoT • Automation • Smart Technology**
+
+</div>
+
+```text
+             ╔══════════════════════════╗
+             ║       BEE SMART          ║
+             ╠══════════════════════════╣
+             ║                          ║
+             ║   DESIGN → CODE → TEST   ║
+             ║              ↓           ║
+             ║           DEPLOY         ║
+             ║                          ║
+             ╚══════════════════════════╝
+                       🕸️
+```
+
+---
+
+## ⚡ What I'm Doing
+
+* 🧑‍💻 Building Web Applications
+* 🎨 Creating modern UI/UX
+* 🕸️ Learning Next.js & TypeScript
+* 🧪 Exploring Software Quality & Testing
+* 🚀 Working on real-world projects
+* 🤝 Open to collaboration
+
+---
+
+## 🕷️ Spider Sense: `ONLINE`
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────┐
+│              SPIDER SYSTEM               │
+├──────────────────────────────────────────┤
+│                                          │
+│  🟢 LEARNING       ████████████████ 100% │
+│  🟢 CODING         ██████████████░░  90% │
+│  🟢 DEBUGGING      █████████████░░░  80% │
+│  🟢 CREATIVITY     ████████████████ 100% │
+│                                          │
+│             🕸️ SYSTEM ONLINE             │
+└──────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🕸️ GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+## 🕷️ Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/md-rezwan-nabi-857269296">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🕸️ `KEEP BUILDING. KEEP LEARNING. KEEP CLIMBING.`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:050505&height=120&section=footer"/>
+
+</div>
