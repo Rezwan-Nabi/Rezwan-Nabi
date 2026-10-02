@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rezwan&fontSize=70&animation=twinkling&fontAlignY=40" alt="Profile Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Rezwan&fontSize=70&animation=twinkling&fontAlignY=40" alt="Profile Header" />
 </p>
 
 <h2 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/md-rezwan-nabi-857269296" target="_blank">Md Rezwan Nabi</a> 👋</h2>
