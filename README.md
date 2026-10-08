@@ -109,8 +109,6 @@
   <img src="https://streak-stats.demolab.com/?user=Rezwan-Nabi&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
-### 💻 Most Used Languages
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan-Nabi&layout=compact&theme=dark&hide_border=false&langs_count=8"
