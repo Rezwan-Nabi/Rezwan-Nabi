@@ -119,8 +119,6 @@
 
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rezwan-Nabi&theme=github_dark&utcOffset=6" alt="Productive time"/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rezwan-Nabi&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/Rezwan-Nabi)
-
 </div>
 
 ### 🐍 Contribution Snake
