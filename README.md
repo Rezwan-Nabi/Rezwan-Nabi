@@ -103,18 +103,25 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="Divider" />
 </p>
 
-### 📊 GitHub Analytics
+### 📊 GitHub Metrics & Stats Dashboard
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rezwan-Nabi&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan-Nabi&layout=compact&theme=dark&hide_border=false&langs_count=8"
-    alt="Most Used Languages"
-  />
-</p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rezwan-Nabi&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan-Nabi&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rezwan-Nabi&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rezwan-Nabi&theme=github_dark" width="100%" alt="Profile summary"/>
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rezwan-Nabi&theme=github_dark" alt="Repositories per language"/>
+
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rezwan-Nabi&theme=github_dark&utcOffset=6" alt="Productive time"/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rezwan-Nabi&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/Rezwan-Nabi)
+
+</div>
 
 ### 🐍 Contribution Snake
 
