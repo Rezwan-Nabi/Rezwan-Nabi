@@ -30,7 +30,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Building+with+React+%26+Next.js;Learning+every+single+day;Open+source+enthusiast;Turning+ideas+into+reality" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently building scalable web applications, focusing on the **BEE Smart Web App**
+- 🔭 I’m currently building scalable web applications, focusing on the **Nexoit Solution Web App**
 - 🌱 I’m deepening my expertise in **TypeScript, Next.js, and modern React ecosystems**
 - 👯 I’m open to collaborating on innovative **Front-End and Open-Source projects**
 - 💬 Feel free to reach out to discuss **React, UI/UX best practices, or web performance**
