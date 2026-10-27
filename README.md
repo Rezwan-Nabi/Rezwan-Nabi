@@ -117,7 +117,7 @@
 
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rezwan-Nabi&theme=github_dark" alt="Repositories per language"/>
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rezwan-Nabi&theme=github_dark&utcOffset=6" alt="Productive time"/>
+
 
 </div>
 
