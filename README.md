@@ -1,6 +1,17 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:555555&height=250&section=header&text=Rezwan&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" alt="Profile Header" />
-</p>
+# Pac-Man Graph
+
+<!-- BEGIN:preview -->
+![Pac-Man Graph](../../../assets/gamified/pacman-graph.svg)
+<!-- END:preview -->
+
+> Pac-Man eats your contribution dots while ghosts give chase. The snake template's louder cousin.
+
+<!-- BEGIN:meta -->
+**Kind:** `action` — a GitHub Action generates it in your repo  
+**Difficulty:** Intermediate  
+**External services:** `raw.githubusercontent.com`  
+**Tags:** `gamified` `pacman` `contributions` `action`
+<!-- END:meta -->
 
 <h2 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/md-rezwan-nabi-857269296" target="_blank">Md Rezwan Nabi</a> 👋</h2>
 
