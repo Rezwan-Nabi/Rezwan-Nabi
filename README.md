@@ -145,7 +145,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
-```html
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Rezwan-Nabi/Rezwan-Nabi/output/pacman-contribution-graph.svg"
@@ -164,4 +164,4 @@
   <code>STREAK · Building Consistently</code> ·
   <code>STAGE · Leveling Up</code>
 </p>
-```
+
