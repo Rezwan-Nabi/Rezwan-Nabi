@@ -113,8 +113,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rezwan-Nabi&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rezwan-Nabi&theme=github_dark" alt="Repositories per language"/>
-
 </div>
 
 ### 🐍 Contribution Snake
