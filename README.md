@@ -6,7 +6,7 @@
 
 > Pac-Man eats your contribution dots while ghosts give chase. The snake template's louder cousin.
 
-<h2 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/md-rezwan-nabi-857269296" target="_blank">Md Rezwan Nabi</a> 👋</h2>
+<h2 align="center">Hi there, I'm <a>Md Rezwan Nabi</a> 👋</h2>
 
 <p align="center">
   <em>Front-End focused Software Developer crafting clean, interactive, and user-friendly web experiences.</em>
