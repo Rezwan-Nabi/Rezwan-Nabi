@@ -1,7 +1,7 @@
 # Pac-Man Graph
 
 <!-- BEGIN:preview -->
-![Pac-Man Graph](../../../assets/gamified/pacman-graph.svg)
+![Pac-Man Graph](/.github/workflows/pacman-graph.svg)
 <!-- END:preview -->
 
 > Pac-Man eats your contribution dots while ghosts give chase. The snake template's louder cousin.
