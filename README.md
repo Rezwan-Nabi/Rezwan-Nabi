@@ -145,17 +145,23 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
-<h1 align="center">{{name}}</h1>
-<p align="center"><em>{{tagline}}</em></p>
-
+```html
 <p align="center">
-  <img src="./metrics.activity.svg" alt="activity pulse" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/Rezwan-Nabi/Rezwan-Nabi/output/pacman-contribution-graph.svg"
+    alt="Rezwan-Nabi's Pac-Man contribution graph"
+    width="100%"
+  />
 </p>
 
-### how I work
+<p align="center">
+  <strong>Rezwan Nabi</strong> ·
+  <em>Software Engineer | SQA & Automation Testing | Web Development</em>
+</p>
 
-- **Peak days are usually Tuesday–Thursday.** I deliberately avoid Mondays for deep work.
-- **Long flat stretches** are research weeks — code shows up later as one big merge.
-- **Spiky weekends** mean a side project is alive. Currently: [{{side_project_name}}]({{side_project_url}}).
-
-— [{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}})
+<p align="center">
+  <code>HIGH SCORE · GitHub Contributions</code> ·
+  <code>STREAK · Building Consistently</code> ·
+  <code>STAGE · Leveling Up</code>
+</p>
+```
