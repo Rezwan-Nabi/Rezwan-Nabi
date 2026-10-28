@@ -6,13 +6,6 @@
 
 > Pac-Man eats your contribution dots while ghosts give chase. The snake template's louder cousin.
 
-<!-- BEGIN:meta -->
-**Kind:** `action` — a GitHub Action generates it in your repo  
-**Difficulty:** Intermediate  
-**External services:** `raw.githubusercontent.com`  
-**Tags:** `gamified` `pacman` `contributions` `action`
-<!-- END:meta -->
-
 <h2 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/md-rezwan-nabi-857269296" target="_blank">Md Rezwan Nabi</a> 👋</h2>
 
 <p align="center">
@@ -138,41 +131,5 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&width=800" alt="Divider" />
-</p>
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.facebook.com/share/186ahBjV9p/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/md-rezwan-nabi-857269296" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:md213nabi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
-</p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Rezwan-Nabi/Rezwan-Nabi/output/pacman-contribution-graph.svg"
-    alt="Rezwan-Nabi's Pac-Man contribution graph"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <strong>Rezwan Nabi</strong> ·
-  <em>Software Engineer | SQA & Automation Testing | Web Development</em>
-</p>
-
-<p align="center">
-  <code>HIGH SCORE · GitHub Contributions</code> ·
-  <code>STREAK · Building Consistently</code> ·
-  <code>STAGE · Leveling Up</code>
 </p>
 
