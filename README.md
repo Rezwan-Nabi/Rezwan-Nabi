@@ -4,8 +4,6 @@
 ![Pac-Man Graph](/.github/workflows/pacman-graph.svg)
 <!-- END:preview -->
 
-> Pac-Man eats your contribution dots while ghosts give chase. The snake template's louder cousin.
-
 <h2 align="center">Hi there, I'm <a>Md Rezwan Nabi</a> 👋</h2>
 
 <p align="center">
