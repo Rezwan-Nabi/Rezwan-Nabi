@@ -1,4 +1,4 @@
-# Pac-Man Graph
+# Pac-Man 
 
 <!-- BEGIN:preview -->
 ![Pac-Man Graph](/.github/workflows/pacman-graph.svg)
