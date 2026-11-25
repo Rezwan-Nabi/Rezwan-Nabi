@@ -67,8 +67,6 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Rezwan-Nabi&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1DA1F2"/>
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezwan-Nabi&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rezwan-Nabi&theme=react&hide_border=true&background=0D1117&ring=1DA1F2&fire=FFD700&currStreakLabel=58A6FF)](https://git.io/streak-stats)
