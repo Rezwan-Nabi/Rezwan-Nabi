@@ -1,7 +1,7 @@
 # Pac-Man 
 
 <p align="center">
-  <img src="Md Rezwan Nabi_ Code, Build, Improve.png" width="100%" alt="Md Rezwan Nabi - Developer Banner" />
+  <img src="github-banner.png" width="100%" alt="Rezwan Nabi Developer Banner">
 </p>
 
 <h2 align="center">Hi there, I'm <a>Md Rezwan Nabi</a> 👋</h2>
